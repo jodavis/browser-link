@@ -1,0 +1,16 @@
+{
+  "name": "browser-link",
+  "version": "0.1.0",
+  "description": "Interactions with Browser Link for Visual Studio",
+  "main": "src/browser-link/browser-link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jodavis",
+  "license": "MS-PL",
+  "dependencies": {
+    "file-exists": "^0.1.1",
+    "path": "^0.12.7",
+    "touch": "^1.0.0"
+  }
+}
